@@ -43,12 +43,11 @@ A Desktop Application built using **Java Swing** and **NetBeans IDE** for managi
 ## 📁 Project Structure
 
 ```text
-├── src/
+├── billing_system/
 │   ├── billing_systems.java    # Main Billing UI & Calculation Engine
 │   ├── NewJDialog.java         # Admin Panel - Unit Price Update
 │   ├── stockqty.java           # Admin Panel - Stock Quantity Update
 │   └── restaurant_billing.csv  # Database file for Prices & Stock
-├── .gitignore                  # Git Ignore rules
 └── README.md                   # Project Documentation
 ```
 
