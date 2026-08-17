@@ -7,7 +7,6 @@ A Desktop Application built using **Java Swing** and **NetBeans IDE** for managi
 * **Billing & Order Management:** Calculate order totals, unit prices, tax, and change for menu items (Pizza, Burger, Fries, Sandwich).
 * **Admin Price Panel (`NewJDialog`):** Real-time update for menu item unit prices with input validation (decimal support and leading-zero cleaning).
 * **Admin Stock Panel (`stockqty`):** Real-time inventory tracking and stock updates with strict integer validation.
-* **Input Data Integrity:** Automatic input sanitization to filter non-numeric characters and strip leading zeros (e.g., `00001` converts to `1`).
 * **CSV Data Persistence:** Saves stock levels, unit prices, and transaction records to `restaurant_billing.csv`.
 
 ---
